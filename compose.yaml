@@ -1,4 +1,4 @@
-services:
+services: 
   db:
     # We use a mariadb image which supports both amd64 & arm64 architecture
     image: mariadb:10-focal
